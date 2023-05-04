@@ -1,3 +1,4 @@
 C1 - Introducción a Git
 C2 - Flujo de trabajo básico
-C3 - Repositorios remotos
+C3 - Gestión de ramas
+C4 - Repositorios remotos
